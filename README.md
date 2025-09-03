@@ -4,7 +4,7 @@
 
 💊 Experiência em farmácia, controle de produtos e atendimento ao cliente.
 
-🏦  Atualmente trabalhando em uma **Cooperativa de Crédito do SESC/SENAC** 
+🏦  Atualmente trabalhando em uma **Cooperativa de Crédito do SESC/SENAC** 🌐 Site da empresa: [Cooperativa de Crédito Sesc/Senac](https://anossacooperativa.com.br/)
 
 
 💻 Interessada em programação, lógica, Git/GitHub e desenvolvimento de projetos  
@@ -27,5 +27,4 @@
 ---
 
 ## 🌎 Vamos nos conectar?
-🌐 Site da empresa: [Cooperativa de Crédito Sesc/Senac](https://anossacooperativa.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/melissalopes16/)  
