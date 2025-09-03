@@ -1,7 +1,8 @@
 # Olá, eu sou a Melissa 👋  
 
-🎓 Estudante de Engenharia de Software (futura)  
-💊 Experiência em farmácia, organização de estoque e controle de produtos  
+🎓 Estudante de Técnico em Informática   
+💊 Experiência em farmácia, controle de produtos e atendimento ao cliente.
+🏦  Atualmente trabalhando em uma **Cooperativa de Crédito do SESC/SENAC** 
 💻 Interessada em programação, lógica, Git/GitHub e desenvolvimento de projetos  
 📚 Atualmente estudando: [tecnologias que você quiser colocar]  
 
