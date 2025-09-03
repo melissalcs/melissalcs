@@ -1,5 +1,4 @@
 # Olá, eu sou a Melissa 👋  
-![Visitantes](https://komarev.com/ghpvc/?username=melissalcs&label=Visitantes&color=blue&style=for-the-badge)
 
 🎓 Estudante de Técnico em Informática   
 
