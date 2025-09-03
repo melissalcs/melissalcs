@@ -4,7 +4,7 @@
 💊 Experiência em farmácia, controle de produtos e atendimento ao cliente.
 🏦  Atualmente trabalhando em uma **Cooperativa de Crédito do SESC/SENAC** 
 💻 Interessada em programação, lógica, Git/GitHub e desenvolvimento de projetos  
-📚 Atualmente estudando: [tecnologias que você quiser colocar]  
+  
 
 ---
 
