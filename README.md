@@ -4,7 +4,8 @@
 
 💊 Experiência em farmácia, controle de produtos e atendimento ao cliente.
 
-🏦  Atualmente trabalhando em uma **Cooperativa de Crédito do SESC/SENAC** 
+🏦  Atualmente trabalhando em uma **Cooperativa de Crédito do SESC/SENAC** 🌐 Site da empresa: [Cooperativa de Crédito Sesc/Senac](https://anossacooperativa.com.br/)
+
 
 💻 Interessada em programação, lógica, Git/GitHub e desenvolvimento de projetos  
   
