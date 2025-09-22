@@ -1,3 +1,5 @@
+![Mídia (1)](https://github.com/user-attachments/assets/400a0b9b-3560-41b3-bbea-5b6e2ec1ebd9)
+
 # Olá, eu sou a Melissa 👋  
 
 🎓 Estudante de Técnico em Informática   
