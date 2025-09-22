@@ -2,7 +2,8 @@
 
 
 
-# Olá, eu sou a Melissa 👋  
+<h1 align="center">Olá, eu sou a Melissa 👋</h1> 
+<hr>
 
 🎓 Estudante de Técnico em Informática   
 
