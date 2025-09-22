@@ -1,5 +1,3 @@
-![Mídia](https://github.com/user-attachments/assets/52e3930d-75c6-4a68-ad9a-347d909d4f3c)
-
 
 
 <h1 align="center">Olá, eu sou a Melissa 👋</h1> 
