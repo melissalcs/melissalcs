@@ -27,4 +27,4 @@
 ---
 
 ## 🌎 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/melissalopes16/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/melissalopescouto/)  
