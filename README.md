@@ -1,4 +1,4 @@
-![Mídia](https://github.com/user-attachments/assets/9533dde6-f45d-4475-8d1a-f9bbd68a7add)
+![banner](https://github.com/user-attachments/assets/85fe59a4-35cd-4c9a-b433-374b03240a36)
 
 
 <h1 align="center">Olá, eu sou a Melissa 👋</h1> 
