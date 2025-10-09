@@ -32,5 +32,5 @@
 
 ## 🌎 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/melissalopescouto/)  
-![GitHub License](https://img.shields.io/github/license/melissalcs/robo-desvia?style=for-the-badge)
+
 
